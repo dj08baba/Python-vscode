@@ -18,6 +18,12 @@ pip install -r requirements.txt
 .venv/bin/python -m src.main
 ```
 
+Or use the helper script:
+
+```bash
+./run.sh
+```
+
 Files:
 - `requirements.txt`: Python dependencies
 - `src/`: package with sample code
