@@ -21,3 +21,4 @@ pip install -r requirements.txt
 Files:
 - `requirements.txt`: Python dependencies
 - `src/`: package with sample code
+- `data/sample.xlsx`: sample Excel file created by the project
