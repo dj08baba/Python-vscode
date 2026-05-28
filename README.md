@@ -24,6 +24,12 @@ Or use the helper script:
 ./run.sh
 ```
 
+To set up the project quickly:
+
+```bash
+./setup.sh
+```
+
 Files:
 - `requirements.txt`: Python dependencies
 - `src/`: package with sample code
